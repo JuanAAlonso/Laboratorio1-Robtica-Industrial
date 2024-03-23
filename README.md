@@ -11,3 +11,5 @@
 ## Plano de la Planta
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/JuanAAlonso/Laboratorio1-Robtica-Industrial/blob/main/3.%20Estación%20y%20distribución%20de%20objetos.PNG)
 >La planta como se puede ver en la imagen, distribuye los objetos como se solicita en el laboratorio de la siguiente manera: El robot ubicado su centro sobre el 0 del plano cartesiano, mientras que el logo en superficie plana esta en el playo y(-), x(+) con una pequeña inclinación correspondiente a las tablas del laboratorio, por otra parte el logotipo en superficie inclinada (30°) está en el plano y(+),x(+).
+## Videos
+>https://drive.google.com/drive/folders/1DHHZ0SXXfLdBjRneUswRhG2qwDi7JxS7?usp=drive_link
