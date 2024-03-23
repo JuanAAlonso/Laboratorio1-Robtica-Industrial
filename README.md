@@ -1,1 +1,3 @@
 # Laboratorio N° 1 de robotica
+## Descripcion General
+>En este repositorio encontrarás las memorias y programas desarrollados durante la primera práctica de laboratorio del curso de Robótica. Esta práctica está diseñada para aprender a manejar el manipulador ABB IRB 140 en el espacio del laboratorio LabSIR utilizando el controlador ABB IRC5. El objetivo principal es escribir un logotipo, en nuestro caso el logotipo de XBOX mas nuestras iniciales(J,J,R), con un marcador en un tablero inclinado. Esto se logra mediante el uso de una herramienta de diseño libre acoplada al manipulador y la definición de las trayectorias en Robot Studio.
