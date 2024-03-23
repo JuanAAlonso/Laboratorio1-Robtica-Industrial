@@ -9,7 +9,7 @@
 
 >Por otro lado, la función movl en RAPID se utiliza para controlar el movimiento del robot a lo largo de una trayectoria lineal entre dos puntos en el espacio de trabajo. Este tipo de movimiento se conoce como movimiento lineal. Al utilizar movl, el robot se mueve en una línea recta desde un punto inicial hasta un punto final, lo que permite realizar movimientos de desplazamiento suaves y continuos. Este método es útil cuando se requiere que el robot siga una trayectoria lineal precisa, como en operaciones de ensamblaje o soldadura, donde se necesita un movimiento fluido y preciso para completar la tarea de manera eficiente.
 ## Plano de la Planta
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/JuanAAlonso/Laboratorio1-Robtica-Industrial/blob/main/3.%20Estación%20y%20distribución%20de%20objetos.PNG)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/JuanAAlonso/Laboratorio1-Robtica-Industrial/blob/main/3.%20Plano%20de%20planta%20de%20la%20unicación%20de%20cada%20uno%20de%20los%20elementos/Estación%20y%20distribución%20de%20objetos.PNG)
 >La planta como se puede ver en la imagen, distribuye los objetos como se solicita en el laboratorio de la siguiente manera: El robot ubicado su centro sobre el 0 del plano cartesiano, mientras que el logo en superficie plana esta en el playo y(-), x(+) con una pequeña inclinación correspondiente a las tablas del laboratorio, por otra parte el logotipo en superficie inclinada (30°) está en el plano y(+),x(+).
 ## Videos
 >https://drive.google.com/drive/folders/1DHHZ0SXXfLdBjRneUswRhG2qwDi7JxS7?usp=drive_link
